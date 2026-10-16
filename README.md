@@ -1,5 +1,7 @@
 # Next.js on Netlify Platform Starter
 
+t6
+
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
 
 A modern starter based on Next.js 16 (App Router), Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
